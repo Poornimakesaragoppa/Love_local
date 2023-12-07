@@ -12,7 +12,10 @@ To deploy this project run
   In the vscode go to terminal and give the comment as 
   g++ ./program_name.cpp
 ```
-
 ## Authors
 
 - [@Poornima](https://www.github.com/octokatherine)
+## Documentation
+[Documentation](https://imgur.com/a/usmAuGL)
+
+
